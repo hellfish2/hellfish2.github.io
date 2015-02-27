@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% if page.url == "/404.html" %}
+<meta http-equiv="refresh" content="5; url=/">
+{% endif %}
+
+
+{% include head.html %}
+
+<body>
+    {% include analytics.html %}
+    {% include nav.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+</body>
+
+</html>

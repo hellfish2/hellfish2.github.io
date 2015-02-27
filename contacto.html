@@ -1,0 +1,48 @@
+---
+layout: page
+title: "Contacto"
+description: "Tienes preguntas? Yo tengo respuestas (tal vez)."
+header-img: "img/contact-bg.jpg"
+---
+
+<p>Quieres ponerte en contacto conmigo? Llena el formulario aqui debajo y enviame un mensaje, yo voy tratar de responder el mismo en las proximas 24hrs!</p>
+<!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
+<!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
+<!-- NOTE: To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
+<form name="sentMessage" id="contactForm" novalidate>
+    <div class="row control-group">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <label>Nombre y apellido</label>
+            <input type="text" class="form-control" placeholder="Nombre y apellido" id="name" required data-validation-required-message="Favor ingrese su nombre y apellido.">
+            <p class="help-block text-danger"></p>
+        </div>
+    </div>
+    <div class="row control-group">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <label>Direccion de correo</label>
+            <input type="email" class="form-control" placeholder="Direccion de correo" id="email" required data-validation-required-message="Favor ingrese su direccion de correo.">
+            <p class="help-block text-danger"></p>
+        </div>
+    </div>
+    <div class="row control-group">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <label>Número de teléfono</label>
+            <input type="tel" class="form-control" placeholder="Número de Teléfono" id="phone" required data-validation-required-message="Favor ingrese su número de teléfono.">
+            <p class="help-block text-danger"></p>
+        </div>
+    </div>
+    <div class="row control-group">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <label>Mensaje</label>
+            <textarea rows="5" class="form-control" placeholder="Mensaje" id="message" required data-validation-required-message="Favor ingrese su mensaje, comentario o sugerencia."></textarea>
+            <p class="help-block text-danger"></p>
+        </div>
+    </div>
+    <br>
+    <div id="success"></div>
+    <div class="row">
+        <div class="form-group col-xs-12">
+            <button type="submit" class="btn btn-default">Enviar</button>
+        </div>
+    </div>
+</form>
