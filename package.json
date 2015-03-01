@@ -1,12 +1,12 @@
 {
-    "name": "clean-blog",
-    "title": "Clean Blog",
+    "name": "blog",
+    "title": "Blog",
     "version": "1.0.0",
-    "homepage": "http://startbootstrap.com",
-    "author": "Start Bootstrap",
+    "homepage": "http://hellfish2.github.io",
+    "author": "Carlos Malave",
     "license": {
         "type": "Apache 2.0",
-        "url": "https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE"
+        "url": "https://github.com/hellfish2/hellfish2.github.io/blob/gh-pages/LICENSE"
     },
     "devDependencies": {
         "grunt": "~0.4.5",
@@ -17,6 +17,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll.git"
+        "url": "https://github.com/hellfish2/hellfish2.github.io.git"
     }
 }
