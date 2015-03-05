@@ -17,7 +17,7 @@ Seleccionamos en la carpeta input la opción, Table input y la arrastramos hacia
 <a href="#">
 <img src="{{ site.baseurl }}/img/pentaho_5.png" alt="Pentaho tutorial">
 </a>
-<span class="caption text-muted">Interfaz de pentaho.</span>
+<span class="caption text-muted">Conectando a BD.</span>
 </p>
 
 Al haber hecho lo anterior procedemos a seleccionar el step anterior y boton derecho encima de el, seleccionamos la opción preview
@@ -27,4 +27,13 @@ Al haber hecho lo anterior procedemos a seleccionar el step anterior y boton der
 <img src="{{ site.baseurl }}/img/pentaho_7.png" alt="Pentaho tutorial">
 </a>
 <span class="caption text-muted">Preview de step input table.</span>
+</p>
+
+Ahora al ver nuestro resultado sin problemas, procedemos a realizar unas modificaciones de la columna descripcion, para colocar el cotenido de este campo en mayuscula, para esto usamos un paso en la seccion transformacion > Operaciones de String, y luego unimos el paso anterior con este paso (recordemos la aplicacion PDI en su mayoria es DRAG AND DROP por lo cual es muy intuitivo su uso)
+
+<p class="centerImage">
+<a href="#">
+<img src="{{ site.baseurl }}/img/pentaho_8.png" alt="Pentaho tutorial">
+</a>
+<span class="caption text-muted">Preview de step Operaciones de String.</span>
 </p>
