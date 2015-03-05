@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Pentaho Data integrator 2/5"
-subtitle:   "Descarga e Instalacionso de esta herramienta para Bussiness Inteligence."
+subtitle:   "Descarga e Instalación de esta herramienta para Bussiness Inteligence."
 date:       2015-02-27 22:00:00
 author:     "@hellfish2"
 header-img: "img/pentaho.png"
