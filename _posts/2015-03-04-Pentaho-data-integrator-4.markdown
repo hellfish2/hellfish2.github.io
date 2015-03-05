@@ -46,3 +46,7 @@ Como podemos observar en la seccion preview de las metricas de el contenido obse
 </a>
 <span class="caption text-muted">Preview de step output textfile.</span>
 </p>
+
+Luego veremos que la ruta que colocamos como el output estara con el archivo y la columna en mi caso descripcion con el texto en mayuscula.
+
+En conclusion podemos observar como Pentaho Data Integrator, influye en el flujo de datos de nuestro esquema, podemos conectarnos a multiples origenes, hacer transformaciones y mejoras del flujo de datos e inyectarlos o insertarlos a multiples salidas, dependiendo de como lo requeramos.
