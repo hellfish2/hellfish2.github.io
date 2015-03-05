@@ -19,3 +19,12 @@ Seleccionamos en la carpeta input la opción, Table input y la arrastramos hacia
 </a>
 <span class="caption text-muted">Interfaz de pentaho.</span>
 </p>
+
+Al haber hecho lo anterior procedemos a seleccionar el step anterior y boton derecho encima de el, seleccionamos la opción preview
+
+<p class="centerImage">
+<a href="#">
+<img src="{{ site.baseurl }}/img/pentaho_7.png" alt="Pentaho tutorial">
+</a>
+<span class="caption text-muted">Preview de step input table.</span>
+</p>
