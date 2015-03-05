@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Pentaho Data integrator 3/5"
-subtitle:   "Uso de esta herramienta para Bussiness Inteligence."
+subtitle:   "Explicacion Kettle y Spoon."
 date:       2015-03-03 01:48:00
 author:     "@hellfish2"
 header-img: "img/pentaho.png"

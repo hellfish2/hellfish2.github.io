@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Pentaho Data integrator 1/5"
-subtitle:   "Uso de esta herramienta para Bussiness Inteligence."
+subtitle:   "Inteligencia de negocios con PDI."
 date:       2015-02-27 15:00:00
 author:     "@hellfish2"
 header-img: "img/pentaho.png"
