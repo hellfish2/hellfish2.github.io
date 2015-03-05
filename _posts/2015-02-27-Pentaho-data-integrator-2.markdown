@@ -29,3 +29,10 @@ $ ./spoon.sh
 ~~~
 
 Espero que con todo lo indicado sea más fácil tener Pentaho "instalado" en nuestra PC o servidor.
+
+<p class="centerImage">
+<a href="#">
+<img src="{{ site.baseurl }}/img/pentaho.jpg" alt="Pentaho tutorial">
+</a>
+<span class="caption text-muted">Interfaz de pentaho.</span>
+</p>
