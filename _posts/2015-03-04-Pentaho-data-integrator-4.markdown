@@ -37,3 +37,12 @@ Ahora al ver nuestro resultado sin problemas, procedemos a realizar unas modific
 </a>
 <span class="caption text-muted">Preview de step Operaciones de String.</span>
 </p>
+
+Como podemos observar en la seccion preview de las metricas de el contenido observamos que nuestra columna ahora muestra informacion en mayuscula, ahora debemos escoger un output (salida) de esta columna, y como nuestro cometido inicial seria exportar nuestra columna a un archivo de texto usamos el paso ubicado en la carpeta output > text file (archivo de texto), lo configuramos y colocamos la ruta donde enviara nuestro archivo.
+
+<p class="centerImage">
+<a href="#">
+<img src="{{ site.baseurl }}/img/pentaho_9.png" alt="Pentaho tutorial">
+</a>
+<span class="caption text-muted">Preview de step output textfile.</span>
+</p>
