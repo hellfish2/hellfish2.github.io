@@ -83,6 +83,12 @@ $ cd carpeta_descomprimida
 $ ./spoon.sh
 ~~~
 
+Si nos presenta un error al abrir referenciando "Core dumps have been disabled” error while running java" debemos agregar la instruccion a continuación, editando el archivo spoon.sh, este error se presenta por la libreria libsoup con Gnome3.+ 
+
+~~~
+OPT="-Dorg.eclipse.swt.browser.DefaultType=mozilla"
+~~~
+
 Al hacer esto nos mostrara un splash (pantalla de carga) de la aplicación, y luego continuamos a ver la aplicación corriendo.
 
 <p class="centerImage">
