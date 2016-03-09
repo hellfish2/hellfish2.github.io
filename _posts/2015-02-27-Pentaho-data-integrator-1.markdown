@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Pentaho Data integrator 1/5"
+title:      "Pentaho Data integrator 1/25"
 subtitle:   "Inteligencia de negocios con PDI."
 date:       2015-02-27 15:00:00
 author:     "@hellfish2"
