@@ -4,20 +4,27 @@ description: "Frontend/Backend + UX/UI + Hybrid Apps + Android Developer"
 ---
 
 {% for post in paginator.posts %}
-<div class="post-preview col-md-6">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">{{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-    </a>
-    <p class="post-meta">por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} el {{ post.date | date: "%F" }}</p>
+<div class="col-md-12">
+  <div class="col-md-6">
+
+    <hr>
+    <div class="post-preview">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+            <h2 class="post-title">{{ post.title }}
+            </h2>
+            {% if post.subtitle %}
+            <h3 class="post-subtitle">
+                {{ post.subtitle }}
+            </h3>
+            {% endif %}
+        </a>
+        <p class="post-meta">por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} el {{ post.date | date: "%F" }}</p>
+    </div>
+    {% endfor %}
+
+  </div>
 </div>
-<hr>
-{% endfor %}
+
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
