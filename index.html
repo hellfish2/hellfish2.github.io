@@ -3,10 +3,10 @@ layout: page
 description: "Frontend/Backend + UX/UI + Hybrid Apps + Android Developer"
 ---
 
-<div class="col-md-6">
+<div class="col-md-12">
   {% for post in paginator.posts %}
   <hr>
-  <div class="post-preview">
+  <div class="post-preview col-md-6">
       <a href="{{ post.url | prepend: site.baseurl }}">
           <h2 class="post-title">{{ post.title }}
           </h2>
