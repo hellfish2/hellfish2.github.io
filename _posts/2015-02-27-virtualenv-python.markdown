@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Uso y mejores practicas de Virtualenv para Python"
-subtitle:   "Herramienta de desarrollo para entornos python"
+subtitle:   "Herramienta de desarrollo"
 date:       2015-02-27 12:00:00
 author:     "@hellfish2"
 header-img: "img/python.jpg"

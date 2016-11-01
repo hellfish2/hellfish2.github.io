@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Pentaho Data integrator 5/5"
-subtitle:   "Creando nuestro primer Job a partir de nuestra primera transformación."
+subtitle:   "Primer Job en PDI."
 date:       2015-03-03 01:48:00
 author:     "@hellfish2"
 header-img: "img/pentaho.png"

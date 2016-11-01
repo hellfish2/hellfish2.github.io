@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Como instalar Atom Editor en Debian Linux."
-subtitle:   "IDE desarrollado por github, amado por todos los desarrolladores"
+subtitle:   "IDE desarrollado por github para todos los desarrolladores"
 date:       2015-02-27 13:00:00
 author:     "@hellfish2"
 header-img: "img/atom2.png"

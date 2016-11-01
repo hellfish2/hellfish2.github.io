@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Como instalar PostgreSQL en Debian 7"
-subtitle:   "Tutorial para tener instalado postgresql en debian 7."
+subtitle:   "Tutorial postgresql en debian 7."
 date:       2015-02-27 14:00:00
 author:     "@hellfish2"
 header-img: "img/postgresql.jpg"

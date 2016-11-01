@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Pentaho Data integrator 4/5"
-subtitle:   "Creando nuestra primera Transformación."
+subtitle:   "Primera Transformación."
 date:       2015-03-03 01:48:00
 author:     "@hellfish2"
 header-img: "img/pentaho.png"
