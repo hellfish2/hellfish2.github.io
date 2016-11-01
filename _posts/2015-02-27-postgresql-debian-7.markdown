@@ -4,7 +4,7 @@ title:      "PostgreSQL en Debian 7"
 subtitle:   "Tutorial postgresql en debian 7."
 date:       2015-02-27 14:00:00
 author:     "@hellfish2"
-header-img: "img/postgresql.jpg"
+header-img: "img/postgresql2.jpg"
 ---
 Este articulo explica como instalar el servidor y un cliente de lineas de comandos de la base de datos PostgreSQL en Debian Wheezy.
 
