@@ -7,7 +7,7 @@ author:     "@hellfish2"
 header-img: "img/pentaho.png"
 ---
 
-#### Creando nuestro primer Job2
+#### Creando nuestro primer Job
 
 Supo
 
